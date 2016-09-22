@@ -1,0 +1,13 @@
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\bin\Debug\Sender.exe.config
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\bin\Debug\Sender.exe
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\bin\Debug\Sender.pdb
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.ServiceBus.dll
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.ServiceBus.xml
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\obj\Debug\Spike.AppServicesSvcBusQ.csprojResolveAssemblyReference.cache
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\obj\Debug\Sender.exe
+C:\dev\MSDN\Spike.AppServicesSvcBusTopic\Spike.AppServicesSvcBusQ\obj\Debug\Sender.pdb
+E:\NextStepsAzureServiceBus\Spike.AppServicesSvcBusQ\bin\Debug\Sender.exe.config
+E:\NextStepsAzureServiceBus\Spike.AppServicesSvcBusQ\obj\Debug\Sender.exe
+E:\NextStepsAzureServiceBus\Spike.AppServicesSvcBusQ\obj\Debug\Sender.pdb
